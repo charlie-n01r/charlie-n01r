@@ -1,6 +1,7 @@
 # Hi there, I'm Charlie 😁
 
 I'm a CS graduate working as a data engineer in 🇲🇽 with a passion for computer languages, particularly functional languages.
+Pronouns: he/him they/them 🏳️‍⚧️
 
 ### Hobbies 🎨
 - Gaming 🎮
