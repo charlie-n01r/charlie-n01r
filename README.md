@@ -1,6 +1,6 @@
 # Name's Charlie 🔥
 
-Art school dropout turned CS graduate, former Data Engineer @ a Big Three consulting firm, and aspiring Cybersecurity Specialist.
+Art school dropout turned CS graduate, former Data Engineer @ a Big Three consulting firm, and aspiring Cybersecurity Specialist.\
 🇲🇽 in 🇨🇦 with a passion for computer networks & computer languages, particularly functional languages
 
 ### Languages 🌐:
