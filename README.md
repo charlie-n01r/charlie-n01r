@@ -1,25 +1,26 @@
-# Hi there, I'm Charlie 😁
+# Name's Charlie 🔥
 
-I'm a CS graduate working as a data engineer in 🇲🇽 with a passion for computer languages, particularly functional languages.
-Pronouns: he/him they/them 🏳️‍⚧️
+Art school dropout turned CS graduate, former Data Engineer @ a Big Three consulting firm, and aspiring Cybersecurity Specialist.
+🇲🇽 in 🇨🇦 with a passion for computer networks & computer languages, particularly functional languages
 
-### Hobbies 🎨
-- Gaming 🎮
-- Anime 🌸
-- Languages 🌐:
+### Languages 🌐:
   - Fluent: 🇲🇽 🇬🇧
   - Learning: 🇯🇵 🇫🇷
   - Know-a-bit-of: 🇩🇪 🇷🇺
-- Reading & writing poetry 📖
-- Learning! 🧠
+
+### Hobbies 🎨
+- Photography 📷
+- Working out 🏋🏻‍♀️
+- Having excellent music taste 🎵
+- Mixing drinks 🍸
+- Skating 🛹
 - Traveling 🗺️
-- Karaoke 🎤
 
 ### CS Stats 💻
 - Computer languages 🖥️:
-  - Fluent: Python, SQL, Julia
-  - Learning: Typescript, Nim, Gleam (current fave)
-  - Know-a-bit-of: C/C++, C#, Elixir, Javascript, Kotlin, Matlab
+  - Fluent: Python, C, Julia
+  - Learning: SQL, Elixir, Nim, Gleam
+  - Know-a-bit-of: C++, C#, Bash, Kotlin, Matlab
 
 
 <!--
